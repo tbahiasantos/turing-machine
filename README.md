@@ -1,4 +1,3 @@
-```markdown
 # Turing Machine Simulator
 
 ## Descrição
@@ -64,7 +63,3 @@ Sinta-se à vontade para contribuir, abrir issues e propor melhorias.
 ## Licença
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-```
-
-Este README inclui seções para descrição do projeto, instruções de uso, formato do arquivo JSON, exemplos de execução, informações sobre contribuições e a licença do projeto. Certifique-se de ajustar as informações conforme necessário para refletir a natureza específica do seu projeto.
