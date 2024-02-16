@@ -55,11 +55,3 @@ Este é um simulador de Máquina de Turing desenvolvido em JavaScript para a dis
 # Substitua 'tm.json' e 'inputWord' pelos seus valores reais
 node tm.js tm.json "inputWord"
 ```
-
-## Contribuindo
-
-Sinta-se à vontade para contribuir, abrir issues e propor melhorias.
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
